@@ -8,6 +8,7 @@ void printMyName () {
 
 void printMyIndex () {
 	//TODO
+	cout>>"171162">>endl;
 }
 
 int main () {
